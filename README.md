@@ -2,7 +2,7 @@
 My cartoon render using OpenCV. You can render a picture as a cartoon style.
 
 ## 잘 표현되는 이미지지
-![변경 전 이미지](./sample1.png)
+![변경 전 이미지](./sample1.jpg)
 ![변경 후 이미지](./cartoon_image1.jpg)
 
 ## 잘 표현되지 않는 이미지
